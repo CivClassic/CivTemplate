@@ -18,7 +18,7 @@ api-version: 1.14
 # List of hard dependencies (other plugins) that your plugin would fail without.
 depend: [CivModCore]
 
-# List of soft dependencies (other plugins) that your plugins can take advantage of if they're present.
+# List of soft dependencies (other plugins) that your plugin can take advantage of if they're present.
 softdepend: []
 
 # The list of authors who have made notable contributions to this plugin. You can /also/ use "author" if you wish to
