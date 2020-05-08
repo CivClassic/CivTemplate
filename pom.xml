@@ -156,6 +156,9 @@
 						</goals>
 					</execution>
 				</executions>
+				<configuration>
+					<source>8</source>
+				</configuration>
 			</plugin>
 			<!-- https://maven.apache.org/plugins/maven-checkstyle-plugin/ -->
 			<plugin>
